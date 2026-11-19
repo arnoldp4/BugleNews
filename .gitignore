@@ -1,0 +1,5 @@
+# Xcode & Secrets
+Config.plist
+*.xcuserstate
+xcuserdata/
+DerivedData/
